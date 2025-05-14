@@ -35,9 +35,9 @@ pip install -r requirements.txt
 
 **###2.To Run App.py use the command**
 -  streamlit run app.py
-**###3 To run Add_faces.py use the command**
+  ###3 To run Add_faces.py use the command**
 - Python add_faces.py
 **###4. To run test,py use the command**
 - python test.py
-- 
+  
 
